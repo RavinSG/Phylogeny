@@ -1,3 +1,4 @@
 pandas~=1.0.5
 numpy~=1.19.0
 biopython~=1.78
+ete3~=3.1.2

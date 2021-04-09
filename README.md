@@ -1,7 +1,7 @@
-##Setup
+## Setup
 Before running the program, install the required packages using the `requirements.txt` file. 
 
-##Sequence extraction
+## Sequence extraction
 To extract the gene sequences of the proteins, run the `preprocessing.py` script on the same directory containing the
 `Supporting_Documents` folder.
 
@@ -9,7 +9,7 @@ To extract the gene sequences of the proteins, run the `preprocessing.py` script
 python preprocessing.py
 ```
 
-##Robinson-Fould metric
+## Robinson-Fould metric
 To calculate the Robinson-Foulds metric, run the `robinson_foulds.py` script with the `Trees` folder containing in
 the same directory.
 
